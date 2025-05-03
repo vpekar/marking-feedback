@@ -4,9 +4,7 @@ A Sublime Text plugin for context-sensitive autocompletion suggestions.
 
 The plugin makes it possible to re-use previously written comments within an assessment rubric (e.g., consisting of sections such as "Motivation", "Methodology", "Analysis", "Conclusions", etc). It works similar to an autocompletion function in code editor: when you start typing a keyword, previously written comments with that keyword will appear in an autocompletion menu. However, only those suggestions are shown that are relevant to the rubric section you are currently typing in:
 
-![demo](./img/demo.gif?raw=true)
-
-<img src="./img/demo.gif" alt="demo" width="400"/>
+<img src="./img/demo.gif" alt="demo" width="600"/>
 
 To install the plugin:
 
