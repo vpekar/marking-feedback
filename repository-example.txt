@@ -1,0 +1,17 @@
+# Motivation
+
+- A clear statement of the context and the aim of the project
+
+# Analysis
+
+- Extensive data exploration
+
+# Discussion
+
+- A reasonable summary of main results
+- Various suggestions for possible future improvement
+
+# Presentation
+
+- High quality data plots
+- A clear, easy-to-navigate structure of the project
