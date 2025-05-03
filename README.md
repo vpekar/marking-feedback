@@ -6,6 +6,8 @@ The plugin makes it possible to re-use previously written comments within an ass
 
 ![demo](./img/demo.gif?raw=true)
 
+<img src="./img/demo.gif" alt="demo" width="400"/>
+
 To install the plugin:
 
 (1) Install [Sublime Text](https://www.sublimetext.com/download).
